@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Hello World"
-category : operation 
+category : posts
 tags: [intro]
 ---
 {% include JB/setup %}
-#玩法变了
-最近读了一本书，讲的是淘宝的运营
-##为什么玩法变了
+#Github 我来了
+你能从这里了解我啦！
 
