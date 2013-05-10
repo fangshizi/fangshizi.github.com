@@ -1,12 +1,9 @@
 ---
 layout: page
-title: 学习互联网
 ---
 {% include JB/setup %}
 
-## Update Author Attributes
-
-Here's a sample "posts list".
+同事们不要轻易看，小心吐槽吐你一身:)
 
 <ul class="posts">
   {% for post in site.posts %}
