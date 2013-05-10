@@ -2,7 +2,7 @@
 layout: post
 title: "为什么现阶段自建列表分享，有百害而无一益"
 category : www
-tags: [运营][music]
+tags: [运营,music]
 ---
 {% include JB/setup %}
 ##为什么有百害而无一益
