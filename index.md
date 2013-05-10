@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 车奋斗住在十五万光年的星球上，那里互联网不发达
 ---
 {% include JB/setup %}
 
