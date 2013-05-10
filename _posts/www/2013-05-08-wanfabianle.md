@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "由《玩法变了》想到的"
-category : posts
+category : www
 tags: [运营]
 ---
 {% include JB/setup %}
