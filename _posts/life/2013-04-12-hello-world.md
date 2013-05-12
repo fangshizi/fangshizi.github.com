@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-category : posts
-tags: [intro]
+category : life
 ---
 {% include JB/setup %}
 #Github 我来了
