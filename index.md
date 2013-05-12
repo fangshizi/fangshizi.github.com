@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 车奋斗住在十五万光年的星球上，那里互联网不发达
+title: 在工作中实践，在这里吐槽 
 ---
 {% include JB/setup %}
 
-同事们不要轻易看，小心吐槽吐你一身:)
+####同事们不要轻易看，小心吐槽吐你一身:)
 
 <ul class="posts">
   {% for post in site.posts %}
