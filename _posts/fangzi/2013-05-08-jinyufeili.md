@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "金域翡丽"
-category : 未开卖楼盘 
-tags: [海淀]
+category : fangzi 
+tags: [海淀, 未开卖楼盘]
 ---
 {% include JB/setup %}
 大家好，又到了房世子教大家看房子的时间。今天世子要带大家看的楼盘是位于北五环外西三旗的金域翡丽。奥北板块的重磅力作，打算北边置业的同学不妨关注下。
