@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "金域翡丽"
-category : fangzi 
+category : 实地考察 
 tags: [海淀, 未开卖楼盘]
 ---
 {% include JB/setup %}
