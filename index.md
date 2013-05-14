@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 在工作中实践，在这里吐槽 
+title: 房世子带你看北京新盘 
 ---
 {% include JB/setup %}
 
-####同事们不要轻易看，小心吐槽吐你一身:)
 
 <ul class="posts">
   {% for post in site.posts %}
