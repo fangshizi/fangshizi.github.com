@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金域翡丽"
+title: "实地考察：海淀-金域翡丽"
 category : 实地考察 
 tags: [海淀, 未开卖楼盘]
 ---
